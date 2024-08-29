@@ -1,9 +1,9 @@
 {
-    "name": "vscode-theme-onelight",
-    "displayName": "Atom One Light Theme",
+    "name": "skeswa-onelight",
+    "displayName": "skeswa's One Light Theme",
     "description": "One Light Theme based on Atom",
     "version": "2.3.0",
-    "publisher": "akamud",
+    "publisher": "skeswa",
     "license": "MIT",
     "galleryBanner": {
 		"color": "#E8E8E8",
@@ -25,38 +25,38 @@
     "contributes": {
         "themes": [
             {
-                "label": "Atom One Light",
+                "label": "skeswa's One Light",
                 "uiTheme": "vs",
                 "path": "./themes/OneLight.json"
             }
         ]
     },
     "bugs": {
-        "url": "https://github.com/akamud/vscode-theme-onelight/issues",
-        "email": "muddibr@gmail.com"
+        "url": "https://github.com/skeswa/vscode-theme-onelight/issues",
+        "email": "me@sandile.io"
     },
-    "homepage": "https://github.com/akamud/vscode-theme-onelight",
+    "homepage": "https://github.com/skeswa/vscode-theme-onelight",
     "repository": {
         "type": "git",
-        "url": "https://github.com/akamud/vscode-theme-onelight"
+        "url": "https://github.com/skeswa/vscode-theme-onelight"
     },
     "sponsor": {
-        "url": "https://github.com/sponsors/akamud"
+        "url": "https://github.com/sponsors/skeswa"
     },
     "badges": [
 		{
-			"url": "https://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onelight.svg",
-			"href": "https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight",
+			"url": "https://vsmarketplacebadge.apphb.com/version/skeswa.vscode-theme-onelight.svg",
+			"href": "https://marketplace.visualstudio.com/items/skeswa.vscode-theme-onelight",
 			"description": "Extension version"
 		},
 		{
-			"url": "https://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onelight.svg",
-			"href": "https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight",
+			"url": "https://vsmarketplacebadge.apphb.com/installs/skeswa.vscode-theme-onelight.svg",
+			"href": "https://marketplace.visualstudio.com/items/skeswa.vscode-theme-onelight",
 			"description": "Extension installs"
 		},
 		{
-			"url": "https://vsmarketplacebadge.apphb.com/rating/akamud.vscode-theme-onelight.svg",
-			"href": "https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight",
+			"url": "https://vsmarketplacebadge.apphb.com/rating/skeswa.vscode-theme-onelight.svg",
+			"href": "https://marketplace.visualstudio.com/items/skeswa.vscode-theme-onelight",
 			"description": "Extension Rating"
 		}
 	]
